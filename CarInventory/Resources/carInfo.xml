@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Car>
+    <id>1</id>
+    <year>2003</year>
+    <make>Toyota</make>
+    <colour>red</colour>
+    <mileage>450001</mileage>
+  </Car>
+</Cars>
